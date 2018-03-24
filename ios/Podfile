@@ -6,6 +6,7 @@ target 'todo' do
   # use_frameworks!
 
   # Pods for todo
+  pod 'AppCenter/Push', '~> 1.5.0'
   pod 'AppCenter/Crashes', '~> 1.5.0'
   pod 'AppCenter/Analytics', '~> 1.5.0'
   pod 'AppCenterReactNativeShared', '~> 1.4.0'
